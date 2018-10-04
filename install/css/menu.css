@@ -1,0 +1,7 @@
+/* ADMIN MENU */
+#global_menu_global_menu_bonusdoweb .adm-main-menu-item-icon{background:rgba(0, 0, 0, 0) url("../../images/bonusdoweb/bonus.png") no-repeat scroll 18px 9px;opacity:0.9;}
+#global_menu_global_menu_bonusdoweb.adm-main-menu-item-active .adm-main-menu-item-icon, #global_menu_global_menu_aspro_digital:hover .adm-main-menu-item-icon{opacity:1;}
+#global_menu_global_menu_bonusdoweb .adm-main-menu-item-text{line-height: 11px;}
+#_global_menu_bonusdoweb_items .imi_typography{background:rgba(0, 0, 0, 0) url("../../images/bonusdoweb/menu.png") no-repeat scroll -23px 3px;}
+#_global_menu_bonusdoweb_items .imi_order{background:rgba(0, 0, 0, 0) url("../../images/bonusdoweb/menu.png") no-repeat scroll -121px 3px;}
+.adm-workarea input.user.hide {display: none!important;}
